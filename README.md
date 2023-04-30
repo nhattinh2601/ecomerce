@@ -30,7 +30,7 @@
 ![csdl](https://user-images.githubusercontent.com/126131859/234751226-1830e89e-ee06-48ac-93db-c2c9abf24e39.png)
 
 
-<h2>1 vài hình ảnh</h2> </br>
+<h2>Hình ảnh demo</h2> </br>
 
 
 ![home](https://user-images.githubusercontent.com/126131859/234750004-38e444a7-4011-4c57-90c6-3f4e27963780.png)
