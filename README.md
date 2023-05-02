@@ -1,7 +1,7 @@
 # ecomerce website
 # Java Servlet, JPA, SQL Server, BootStrap5
 
-<h2>Các chức năng chính </h2>
+<h3>Các chức năng chính </h3>
 
 1)	Người dùng ( khách + người dùng ) </br>
 •	Đăng kí tạo tài khoản người dùng </br>
@@ -12,25 +12,23 @@
 •	CRUD thông tin cá nhân ( trừ cái quyền ) </br>
 •	Quản lý đơn hàng </br>
 •	Quản lý giỏ hàng </br>
-•	Đặt hàng </br>
+•	Đặt hàng </br></br>
 2)	Người bán : </br>
 •	CRUD sản phẩm , category </br>
 •	CRUD cửa hàng </br>
 •	CRUD đơn hàng </br>
-•	Thống kê doanh thu </br>
+•	Thống kê doanh thu </br></br>
 3)	Admin : </br>
 •	Thống kê doanh thu sản phẩm , đơn hàng của cửa hàng theo biểu đồ cột , đường , tròn + theo thời gian ( giờ , ngày , tháng , năm ) </br>
 •	Thống kê người dùng mới … </br>
 •	Thống kê cửa hàng mới </br>
 •	QL người dùng hệ thống , cửa hàng , sản phẩm , đơn hàng , cấp độ người dùng ( bảng role ) , quản lý cấp độ cửa hàng ( role cửa hàng ) </br>
-</br>
-
-<h2>Cơ sở dữ liệu </h2> </br>
-
-![csdl](https://user-images.githubusercontent.com/126131859/234751226-1830e89e-ee06-48ac-93db-c2c9abf24e39.png)
+</br></br></br></br>
 
 
-<h2>Hình ảnh demo</h2> </br>
+
+
+
 
 
 ![home](https://user-images.githubusercontent.com/126131859/234750004-38e444a7-4011-4c57-90c6-3f4e27963780.png)
